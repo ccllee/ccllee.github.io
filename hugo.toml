@@ -27,3 +27,5 @@ theme = "PaperMod"
 
 publishDir = "docs"
 
+relativeURLs = true
+canonifyURLs = false
