@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://ccllee.github.io/"
 languageCode = "en-us"
 title = "Chris Lee"
 theme = "PaperMod"
