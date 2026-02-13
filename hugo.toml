@@ -11,6 +11,8 @@ theme = "PaperMod"
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
   disableScrollToTop = true
+  hideFooter = true
+
 
 
 [menu]
