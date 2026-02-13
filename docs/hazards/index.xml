@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hazards and Risk on Chris Lee</title>
+    <link>http://localhost:1313/hazards/</link>
+    <description>Recent content in Hazards and Risk on Chris Lee</description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/hazards/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beyond Code Compliance</title>
+      <link>http://localhost:1313/hazards/beyond-code-compliance/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hazards/beyond-code-compliance/</guid>
+      <description>&lt;p&gt;Codes are a baseline for life safety. Risk-informed decisions often require going further:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;defining performance objectives&lt;/li&gt;
+&lt;li&gt;framing consequences and downtime&lt;/li&gt;
+&lt;li&gt;understanding uncertainty and hazard intensity&lt;/li&gt;
+&lt;li&gt;choosing where additional robustness is worth the cost&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This site will collect practical notes on how to think that way.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
