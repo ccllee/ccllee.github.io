@@ -24,3 +24,6 @@ theme = "PaperMod"
     name = "Hazards"
     url = "/hazards/"
     weight = 30
+
+publishDir = "docs"
+
