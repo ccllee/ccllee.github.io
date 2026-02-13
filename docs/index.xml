@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Structural engineering, hazards, and resilience on Chris Lee</title>
-    <link>https://ccllee.github.io/</link>
+    <link>https://ccllee.net/</link>
     <description>Recent content in Structural engineering, hazards, and resilience on Chris Lee</description>
     <generator>Hugo -- 0.155.3</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 13 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ccllee.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ccllee.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Beyond Code Compliance</title>
-      <link>https://ccllee.github.io/hazards/beyond-code-compliance/</link>
+      <link>https://ccllee.net/hazards/beyond-code-compliance/</link>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://ccllee.github.io/hazards/beyond-code-compliance/</guid>
+      <guid>https://ccllee.net/hazards/beyond-code-compliance/</guid>
       <description>&lt;p&gt;Codes are a baseline for life safety. Risk-informed decisions often require going further:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;defining performance objectives&lt;/li&gt;
@@ -24,9 +24,9 @@
     </item>
     <item>
       <title>About</title>
-      <link>https://ccllee.github.io/about/</link>
+      <link>https://ccllee.net/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ccllee.github.io/about/</guid>
+      <guid>https://ccllee.net/about/</guid>
       <description>&lt;p&gt;I’m **Chris Lee, PE, PMP** — a structural engineer focused on **risk-informed practice**, **hazard-aware design**, and **infrastructure resilience**.&lt;/p&gt;
 &lt;p&gt;My work spans structural design review, field assessments, and delivery support in complex project environments. I’m especially interested in how engineering evidence (performance, uncertainty, fragility, consequence) can better inform planning, governance, and investment decisions.&lt;/p&gt;
 &lt;p&gt;**Current focus areas**&lt;/p&gt;
