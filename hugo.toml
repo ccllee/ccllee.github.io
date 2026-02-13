@@ -10,6 +10,8 @@ theme = "PaperMod"
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
+  disableScrollToTop = true
+
 
 [menu]
   [[menu.main]]
