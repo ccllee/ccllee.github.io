@@ -1,0 +1,26 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "Chris Lee"
+theme = "PaperMod"
+
+[params]
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 10
+  [[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 20
+  [[menu.main]]
+    name = "Hazards"
+    url = "/hazards/"
+    weight = 30
