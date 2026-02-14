@@ -31,5 +31,5 @@ theme = "PaperMod"
 
 publishDir = "docs"
 
-relativeURLs = true
-canonifyURLs = false
+relativeURLs = false
+canonifyURLs = true
