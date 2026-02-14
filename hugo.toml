@@ -13,7 +13,8 @@ theme = "PaperMod"
   disableScrollToTop = true
   hideFooter = true
 
-
+[params.assets]
+  disableFingerprinting = true
 
 [menu]
   [[menu.main]]
